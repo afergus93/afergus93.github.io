@@ -2,7 +2,8 @@ name: "ajrf-website"
 title: "AJRF"
 description: |
   AJRF Website
-output_dir: "_site"
+output_dir: "."     # root of master or main branch
+output_dir: "docs"  # docs directory of master or main branch
 theme: theme.css
 navbar:
   logo:

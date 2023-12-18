@@ -1,0 +1,61 @@
+---
+title: "Aaron John Robarts Ferguson"
+image: "aaron.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/ferguson-aaron/"
+  - label: Twitter
+    url: "https://twitter.com/aaronjrferguson"
+  - label: GitHub
+    url: "https://github.com/afergus93"
+  - label: Email
+    url: "mailto:afergus93@gmail.com"
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+
+
+
+
+# Bio
+I recently finished an MS in Epidemiology @ the University of Washington. My research focused on the social determinants of health, place, and space, in particular the
+health impacts of social and political phenomena such as migration, resettlement, and structural health inequities faced by refugee & immigrant communities. My interests in population health broadly are centered on the political-economy of health, social and structural factors that impact health and illness, and interventions that can alleviate health disparities. Currently on paternity leave and seeking out PhD opportunities.
+
+For a full CV see here.
+
+
+# Education
+
+MS Epidemiology | University of Washington | Sep 2021 - Jun 2023
+
+BA Anthropology & History | Pacific University | Jan 2013 - May 2017
+
+
+# Experience
+* Near Vision Institute | Board of Directors | Jun 2022 - Present
+* University of Washington | Graduate Teaching Assistant | March 2022 - March 2023
+* FastMesh WiFi | Community Programs Manager | Sep 2020 - Present
+* Amazon | Data Collection and Usability Research | March 2019 - Feb 2020
+* PVARF & AAI | Clinical Research Assistant | February 2016 - March 2019
+* Fieldwork in the Samoan Islands | May 2015 - Aug 2015
+
+# Selected Publications
+Ferguson, A., 2023. Did California’s 2020 Medi-Cal Expansion Improve Health Insurance Coverage and Mental Health Outcomes Among Young Adults Without US Citizenship? A Population-based, Quasi-Experimental Study. Masters Thesis, University of Washington. S
+
+Ferguson, A.J.R. 2019. “Entrepreneurship and Social Action Among Youth in American Samoa” in Lee, H., (ed) Pacific Youth, Australia: ANU Press, pp 159-182
+
+Skelly, A.C., Chou, R., Dettori, J.R., Turner, J.A., Friedly, J.L., Rundell, S.D., Fu, R., Brodt, E.D., Wasson, N., Winter, C. and Ferguson, A.J.R , 2018. Noninvasive Nonpharmacological Treatment for Chronic Pain: A Systematic Review
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+

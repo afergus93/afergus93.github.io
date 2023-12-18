@@ -1,0 +1,23 @@
+name: "ajrf-website"
+title: "AJRF"
+description: |
+  AJRF Website
+output_dir: "_site"
+theme: theme.css
+navbar:
+  logo:
+    image: "tablogo.png"
+    href: "www.ajrf.com"
+  right:
+    - text: "Home"
+      href: about.html
+    - text: "Posts"
+      href: "https://tabulahealth.substack.com/"
+    - text: "Papers"
+      href: "https://scholar.google.com/citations?user=9noytHQAAAAJ&hl=en"
+    - text: "CV"
+      href: index.html
+    - icon: images/github.png
+      href: "https://github.com/afergus93"
+output: 
+  postcards::trestles

@@ -21,8 +21,7 @@ output:
 
 
 # Bio
-I recently finished an MS in Epidemiology @ the University of Washington. My research focused on the social determinants of health, place, and space, in particular the
-health impacts of social and political phenomena such as migration, resettlement, and structural health inequities faced by refugee & immigrant communities. My interests in population health broadly are centered on the political-economy of health, social and structural factors that impact health and illness, and interventions that can alleviate health disparities. Currently on paternity leave and seeking out PhD opportunities.
+I recently finished an MS in Epidemiology @ the University of Washington. My research focused on the health impacts of social and political phenomena such as migration, resettlement, and structural health inequities faced by refugee & immigrant communities. My interests in population health broadly are centered on the political-economy of health, social and structural factors that impact health and illness, and interventions that can alleviate health disparities. I'm currently on paternity leave and seeking out PhD opportunities.
 
 For a full CV see here.
 

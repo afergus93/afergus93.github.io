@@ -1,0 +1,35 @@
+---
+title: "Aaron John Robarts Ferguson"
+image: "aaron.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/ferguson-aaron/"
+  - label: Twitter
+    url: "https://twitter.com/aaronjrferguson"
+  - label: GitHub
+    url: "https://github.com/afergus93"
+  - label: Email
+    url: "mailto:afergus93@gmail.com"
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+
+# Hey there!
+ 
+I'm Aaron J.R. Ferguson, a social epidemiologist passionate about social impact and interdisciplinary approaches to population health, drawing on my background in cultural anthropology and history. I believe we need to broadly reimagine public health in our society. This demands critical perspectives on science, society, and population health, integrating intercultural and historical perspectives on health & medicine. 
+
+## What I'm up to
+* ✒️ Writing at Tabula, a publication exploring fresh perspectives on questions animating some of the most pivotal matters in health, history and culture
+* 🎓 Recently finished an MS in Epidemiology at University of Washington where I researched the impact of Medicaid expansion on healthcare coverage and mental health burden among low-income young adults without US citizenship.
+* 🔎 On the Board of Directors of Near Vision Institute, a non-profit re-envisioning rural and school-based pediatric optometry and providing innovative mobile vision therapy to children in WA state
+* ⭐️ Manager of Community Programs @ FastMesh WiFi where I created and oversee a highly successful internet affordability program offering free high-speed broadband WiFi to underserved low-income households in Seattle and Portland  
+* 👶 Currently on parental leave for the birth of my first child :)
+
+
+
+
+
+

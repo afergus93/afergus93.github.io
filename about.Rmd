@@ -14,15 +14,32 @@ output:
   postcards::trestles
 ---
 
-# Hey there!
- 
-I'm Aaron J.R. Ferguson, a social epidemiologist passionate about interdisciplinary approaches to population health, drawing on my background in cultural anthropology and history. I'm passionate about social impact and believe we need to broadly reimagine health in our society. This demands critical perspectives on science, society, and population health, integrating intercultural and historical perspectives on health & medicine. 
+# Bio
+I recently finished an MS in Epidemiology @ the University of Washington. My research focused on the health impacts of social and political phenomena such as migration, resettlement, and structural health inequities faced by refugee & immigrant communities. My interests in population health broadly are centered on the political-economy of health, social and structural factors that impact health and illness, and interventions that can alleviate health disparities. I'm currently on paternity leave and seeking out PhD opportunities.
 
-## What I'm up to
-* ✒️ Writing at Tabula, a publication exploring fresh perspectives on questions animating some of the most pivotal matters in health, history and culture
-* 🎓 Recently finished an MS in Epidemiology at University of Washington where I researched the impact of Medicaid expansion on healthcare coverage and mental health burden among low-income young adults without US citizenship.
-* 🔎 On the Board of Directors of Near Vision Institute, a non-profit re-envisioning rural and school-based pediatric optometry and providing innovative mobile vision therapy to children in WA state
-* ⭐️ Manager of Community Programs @ FastMesh WiFi where I created and oversee a highly successful internet affordability program offering free high-speed broadband WiFi to underserved low-income households in Seattle and Portland  
-* 👶 Currently on parental leave for the birth of my first child :)
+For a full CV see here.
+
+
+# Education
+
+MS Epidemiology | University of Washington | Sep 2021 - Jun 2023
+
+BA Anthropology & History | Pacific University | Jan 2013 - May 2017
+
+
+# Experience
+* Near Vision Institute | Board of Directors | Jun 2022 - Present
+* University of Washington | Graduate Teaching Assistant | March 2022 - March 2023
+* FastMesh WiFi | Community Programs Manager | Sep 2020 - Present
+* Amazon | Data Collection and Usability Research | March 2019 - Feb 2020
+* PVARF & AAI | Clinical Research Assistant | February 2016 - March 2019
+* Fieldwork in the Samoan Islands | May 2015 - Aug 2015
+
+# Selected Publications
+Ferguson, A., 2023. Did California’s 2020 Medi-Cal Expansion Improve Health Insurance Coverage and Mental Health Outcomes Among Young Adults Without US Citizenship? A Population-based, Quasi-Experimental Study. Masters Thesis, University of Washington. S
+
+Ferguson, A.J.R. 2019. “Entrepreneurship and Social Action Among Youth in American Samoa” in Lee, H., (ed) Pacific Youth, Australia: ANU Press, pp 159-182
+
+Skelly, A.C., Chou, R., Dettori, J.R., Turner, J.A., Friedly, J.L., Rundell, S.D., Fu, R., Brodt, E.D., Wasson, N., Winter, C. and Ferguson, A.J.R , 2018. Noninvasive Nonpharmacological Treatment for Chronic Pain: A Systematic Review
 
  
